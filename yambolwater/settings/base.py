@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.sites',
+    'django.contrib.flatpages',#tova e ot men
     'django.contrib.messages',
     'django.contrib.humanize',
     'django.contrib.sitemaps',
